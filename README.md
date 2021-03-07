@@ -3,4 +3,4 @@
 
 
 ##  👑 **Github Stats**
-![Queen Github stats](https://github-readme-stats.vercel.app/api?username=QueenArzoo&show_icons=true&theme=tokyonight)
+![Queen Github stats](https://github-readme-stats.vercel.app/api?username=TheAyeshu&show_icons=true&theme=tokyonight)
